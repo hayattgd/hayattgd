@@ -1,13 +1,14 @@
 # Game Creation
 
-I game creating soft always use Unity😃
+im creating game using unity.
 
-And i was doing Scratch Thats awesome Visual Game Creator. 🤓
+also if is not game then using C#
 
 # From?
 
-me from japan. but can speak basic english.
+me from japan. but only speak basics of english
 
-# What do u like
+# my favs
 
-i likes mario. a good musics and cool actions.
+i like to make minecraft mod or modify them.
+or else make minecraft datapack.
