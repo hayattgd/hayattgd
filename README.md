@@ -7,10 +7,7 @@ im creating game using unity.
 
 also for normal software, using C# instead.
 
-:::note warn
-About C#
 I said using C# but i know only basics of C#...
-:::
 
 # From?
 
