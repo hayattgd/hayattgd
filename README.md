@@ -3,6 +3,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=popout">
     <img src="https://img.shields.io/badge/Editor-VScode-darkblue.svg?logo=visualstudiocode&style=popout">
+    <img src="https://img.shields.io/badge/Discord-hayattgd#1366-7289DA.svg?logo=discord&style=plastic">
 </p>
 
 im creating game using unity.
