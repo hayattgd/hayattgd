@@ -4,9 +4,7 @@
     <img src="https://img.shields.io/badge/Editor-VScode-darkblue.svg?logo=visualstudiocode&style=popout">
 </p>
 im creating game using unity.
-
 also for normal software, using C# instead.
-
 I said using C# but i know only basics of C#...
 
 # From?
