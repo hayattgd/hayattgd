@@ -15,7 +15,7 @@ I said using C# but i know only basics of C#...
 
 # From?
 
-me from japan. but only speak basics of english
+me from japan. but speak basic eng
 
 # my favs
 
