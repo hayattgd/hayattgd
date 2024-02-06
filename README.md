@@ -3,7 +3,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=popout">
     <img src="https://img.shields.io/badge/Editor-VScode-darkblue.svg?logo=visualstudiocode&style=popout">
-    <img src="https://img.shields.io/badge/Discord-hayattgd1366-7289DA.svg?logo=discord&style=popout">
+    <img src="https://img.shields.io/badge/Discord-rlhay-7289DA.svg?logo=discord&style=popout">
     <img src="https://img.shields.io/badge/-CSharp-brightgreen.svg?logo=csharp&style=popout">
 </p>
 
