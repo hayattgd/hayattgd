@@ -10,6 +10,12 @@
 
 i used unity for creating games many times but im learning SDL2 or some other stuffs.
 
+recently developed / developing these stuffs
+
+![Robotics](Robotics.png)
+
+![Swing-Rounds](City.png)
+
 # From?
 
 i am japanese but speak basic english :)
