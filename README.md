@@ -18,10 +18,4 @@ recently developed / developing these stuffs
 
 # From?
 
-i am japanese but speak basic english :)
-
-# my favs
-
-i like to play mario or taiko no tatsujin or uh minecraft.
-
-well also i write little new code when getting bored.
+im from japan and learning english, so my english may be kinda weired.
