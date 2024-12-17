@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-C++-blue.svg?logo=cplusplus&style=popout">
 </p>
 
-i used unity for creating games many times but im learning SDL2 or some other stuffs.
+i used unity for creating games many times but im learning raylib / luau(roblox) or some other stuffs.
 
 recently developed / developing these stuffs
 
