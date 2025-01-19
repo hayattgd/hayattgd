@@ -18,4 +18,4 @@ recently developed / developing these stuffs
 
 # From?
 
-im from japan and learning english, so my english may be kinda weired.
+im from japan and learning english, so my english may be kinda weird.
