@@ -6,19 +6,18 @@
     <img src="https://img.shields.io/badge/Discord-rlhay-7289DA.svg?logo=discord&style=popout">
     <img src="https://img.shields.io/badge/-CSharp-purple.svg?logo=csharp&style=popout">
     <img src="https://img.shields.io/badge/-C++-blue.svg?logo=cplusplus&style=popout">
+    <img src="https://img.shields.io/badge/-Rust-orange.svg?logo=rust&style=popout">
 </p>
 
 i used unity for creating games many times but im learning raylib / luau(roblox) or some other stuffs.
+
+contact me via discord (rlhay)
 
 recently developed / developing these stuffs
 
 ![Robotics](Robotics.png)
 
 ![Swing-Rounds](City.png)
-
-also my latest render :)
-
-<img width="2560" height="1440" alt="v12 wide" src="https://github.com/user-attachments/assets/fd1ff98c-ce30-403c-9916-0eb37481125f" />
 
 # From?
 
