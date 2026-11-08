@@ -1,8 +1,7 @@
 # About
 
 <p>
-    <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=popout">
-    <img src="https://img.shields.io/badge/Editor-vscode-darkblue.svg?style=popout">
+    <img src="https://img.shields.io/badge/Editor-nvim-darkblue.svg?style=popout">
     <img src="https://img.shields.io/badge/Discord-rlhay-7289DA.svg?logo=discord&style=popout">
     <img src="https://img.shields.io/badge/-CSharp-purple.svg?logo=csharp&style=popout">
     <img src="https://img.shields.io/badge/-C++-blue.svg?logo=cplusplus&style=popout">
